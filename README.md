@@ -1,2 +1,1 @@
-# College-Clubs
- 
+[![wakatime](https://wakatime.com/badge/github/suvrashaw/College-Clubs.svg)](https://wakatime.com/badge/github/suvrashaw/College-Clubs)
