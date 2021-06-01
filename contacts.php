@@ -1,7 +1,7 @@
-<?php $active="ecert"; ?>
+<?php $active="contact"; ?>
 <!DOCTYPE html><html lang="en">
 	<head>
-		<title>E-Certificate</title>
+		<title>eCertificate</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" type="text/css" href="styles/bootstrap4/bootstrap.min.css">
@@ -48,7 +48,7 @@
 						</div>
 						<div class="col-lg-6">
 							<div class="contact_form_container">
-								<div class="form_title">CulFest E-Cert</div>
+								<div class="form_title">Contact Us</div>
 								<form action="" method="POST" id="contact_form" class="contact_form">
 									<div class="row contact_row">
 										<div class="col-lg-6 contact_col">
@@ -58,10 +58,10 @@
 											<input type="date" class="form_input" placeholder="Date" name="Date" required="required">
 										</div>
 										<div class="col-lg-12 contact_col">
-											<input type="email" class="form_input" placeholder="Email" name="Email" required="required">
+											<input type="email" class="form_input" placeholder="Message" name="Message" required="required">
 										</div>
 										<div class="col">
-											<button type="submit" class="form_button trans_200" name="Submit" value="Submit">Submit</button>
+											<button type="submit" class="form_button trans_200" name="Send" value="Send">Submit</button>
 										</div>'
 									</div>
 								</form>
