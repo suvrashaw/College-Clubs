@@ -7,7 +7,7 @@
 		<link rel="stylesheet" type="text/css" href="styles/bootstrap4/bootstrap.min.css">
 		<link rel="stylesheet" type="text/css" href="plugins/font-awesome-4.7.0/css/font-awesome.min.css" >
 		<link rel="stylesheet" type="text/css" href="plugins/video-js/video-js.css">
-		<link rel="stylesheet" type="text/css" href="styles/main_styles.css">
+		<link rel="stylesheet" type="text/css" href="styles/main.css">
 		<link rel="stylesheet" type="text/css" href="styles/instructors.css">
 		<link rel="stylesheet" type="text/css" href="styles/instructors_responsive.css">
 	</head>

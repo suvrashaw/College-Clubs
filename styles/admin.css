@@ -1,6 +1,5 @@
 @charset "utf-8";
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,800,900|Poppins:300,400,500,600,700,800,900');
-
 *
 {
 	margin: 0;
@@ -78,14 +77,6 @@ p a:hover::after
 {
 	opacity: 0.2;
 }
-::selection
-{
-	
-}
-p::selection
-{
-	
-}
 h1{font-size: 40px;}
 h2{font-size: 30px;}
 h3{font-size: 24px;}
@@ -99,15 +90,6 @@ h1, h2, h3, h4, h5, h6
 	-webkit-font-smoothing: antialiased;
 	-webkit-text-shadow: rgba(0,0,0,.01) 0 0 1px;
 	text-shadow: rgba(0,0,0,.01) 0 0 1px;
-}
-h1::selection, 
-h2::selection, 
-h3::selection, 
-h4::selection, 
-h5::selection, 
-h6::selection
-{
-	
 }
 .form-control
 {
@@ -123,27 +105,6 @@ section
 {
 	clear: both;
 }
-.clearfix::before, .clearfix::after
-{
-	content: "";
-	display: table;
-}
-.clearfix::after
-{
-	clear: both;
-}
-.clearfix
-{
-	zoom: 1;
-}
-.float_left
-{
-	float: left;
-}
-.float_right
-{
-	float: right;
-}
 .trans_200
 {
 	-webkit-transition: all 200ms ease;
@@ -151,14 +112,6 @@ section
 	-ms-transition: all 200ms ease;
 	-o-transition: all 200ms ease;
 	transition: all 200ms ease;
-}
-.trans_300
-{
-	-webkit-transition: all 300ms ease;
-	-moz-transition: all 300ms ease;
-	-ms-transition: all 300ms ease;
-	-o-transition: all 300ms ease;
-	transition: all 300ms ease;
 }
 .trans_400
 {
@@ -168,39 +121,10 @@ section
 	-o-transition: all 400ms ease;
 	transition: all 400ms ease;
 }
-.trans_500
-{
-	-webkit-transition: all 500ms ease;
-	-moz-transition: all 500ms ease;
-	-ms-transition: all 500ms ease;
-	-o-transition: all 500ms ease;
-	transition: all 500ms ease;
-}
-.fill_height
-{
-	height: 100%;
-}
 .super_container
 {
 	width: 100%;
 	overflow: hidden;
-}
-.prlx_parent
-{
-	overflow: hidden;
-}
-.prlx
-{
-	height: 130% !important;
-}
-.parallax-window
-{
-    min-height: 400px;
-    background: transparent;
-}
-.nopadding
-{
-	padding: 0px !important;
 }
 
 /***
@@ -248,19 +172,12 @@ Top Bar
 	color: rgba(0,0,0,0.4);
 	font-weight: 600;
 }
-.top_bar_phone
-{
-	
 }
 .top_bar_title
 {
 	margin-right: 10px;
 	letter-spacing: 0.075em;
 	text-transform: uppercase;
-}
-.top_bar_lang
-{
-	display: inline-block;	
 }
 .lang_list
 {
