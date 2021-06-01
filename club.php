@@ -56,8 +56,8 @@
 								</div>
 								<div class="instructor_social">
 									<ul>
-										<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-										<li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+										<li><a href=><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+										<li><a href=><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 									</ul>
 								</div>
 							</div>
@@ -74,8 +74,8 @@
 								</div>
 								<div class="instructor_social">
 									<ul>
-										<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-										<li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+										<li><a href=><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+										<li><a href=><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 									</ul>
 								</div>
 							</div>
@@ -92,8 +92,8 @@
 								</div>
 								<div class="instructor_social">
 									<ul>
-										<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-										<li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+										<li><a href=><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+										<li><a href=><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
 									</ul>
 								</div>
 							</div>

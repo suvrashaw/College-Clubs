@@ -7,7 +7,7 @@
 						<div class="top_bar_content d-flex flex-row align-items-center justify-content-start">
 							<div class="top_bar_right ml-auto">					
 								<div class="top_bar_social">
-									<span class="top_bar_title social_title">4TH SEMESTER PROJECT BY GROUP NO. 33, PROJECT GUIDE - PROF. NILANJAN BYABARTA</span>
+									<span class="top_bar_title social_title">A shared forum for all extracurricular clubs of any college.</span>
 								</div>
 							</div>
 						</div>
@@ -31,7 +31,7 @@
 							<ul class="main_nav">
 								<li <?php echo $active=="index"?' class="active" ':""; ?>><a href="index.php">Home</a></li>
 								<li <?php echo $active=="events"?' class="active" ':""; ?>><a href="events_only.php">Events</a></li>
-								<li <?php echo $active=="contact"?' class="active" ':""; ?>><a href="ecert.php">Certificates</a></li>
+								<li <?php echo $active=="ecert"?' class="active" ':""; ?>><a href="ecert.php">E-Certificates</a></li>
 								<li <?php echo $active=="contact"?' class="active" ':""; ?>><a href="contact.php">Contact Us</a></li>
 							</ul>
 						</nav>
@@ -56,4 +56,4 @@
 			</div>
 		</div>
 	</div>
-	</header>
+</header>
