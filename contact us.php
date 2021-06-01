@@ -67,19 +67,6 @@
 								</form>
 							</div>
 						</div>
-						<?php if (isset($_POST['Submit'])) {
-							$font1=realpath("BRUSHSCI.TTF");
-							$font2=realpath("AGENCYR.TTF");
-							$image=imagecreatefrompng("certificate.png");
-							$output="cert.png";
-							$color=imagecolorallocate($image,19,21,22);
-							$name=strtoupper($_POST['Name']);
-							$date=strtoupper($_POST['Date']);
-							imagettftext($image,50,0,365,420,$color,$font1,$name);
-							imagettftext($image,20,0,450,595,$color,$font2,$date);
-							imagepng($image,$output,3);
-							echo $output;
-						} ?>
 					</div>
 				</div>
 			</div>
@@ -88,8 +75,6 @@
 		<script src="js/jquery-3.2.1.min.js"></script>
 		<script src="styles/bootstrap4/popper.js"></script>
 		<script src="styles/bootstrap4/bootstrap.min.js"></script>
-		<script src="plugins/easing/easing.js"></script>
-		<script src="plugins/parallax-js-master/parallax.min.js"></script>
 		<script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyCIwF204lFZg1y4kPSIhKaHEXMLYxxuMhA"></script>
 		<script src="js/contact.js"></script>
 	</body>

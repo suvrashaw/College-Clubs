@@ -6,7 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" type="text/css" href="styles/bootstrap4/bootstrap.min.css">
 		<link rel="stylesheet" type="text/css" href="plugins/font-awesome-4.7.0/css/font-awesome.min.css">
-		<link rel="stylesheet" type="text/css" href="styles/main_styles.css">
+		<link rel="stylesheet" type="text/css" href="styles/main.css">
 		<link rel="stylesheet" type="text/css" href="styles/course_body.css">
 		<link rel="stylesheet" type="text/css" href="styles/course_responsive.css">
 	</head>
@@ -15,18 +15,18 @@
 			<?php require "layout/header.php"; ?>
 			<?php require "layout/mobile.php"; ?>
 			<div class="intro">
-				<div class="intro_background parallax-window" data-parallax="scroll" data-image-src="images/intro.jpg" data-speed="0.8"></div>
+				<div class="intro_background parallax-window" data-parallax="scroll" data-image-src="images/code.png" data-speed="0.8"></div>
 				<div class="container">
 					<div class="row">
 						<div class="col">
 							<div class="intro_container d-flex flex-column align-items-start justify-content-end">
 								<div class="intro_content">
-									<div class="intro_price">27 May 2021, 09:30 am</div>
+									<div class="intro_price">09 Jun 2021, 09:30 am</div>
 									<div class="rating_r rating_r_4 intro_rating"><i></i><i></i><i></i><i></i><i></i></div>
-									<div class="intro_title">Project II</div>
+									<div class="intro_title">Project Exhibition</div>
 									<div class="intro_meta">
-										<div class="intro_image"><img src="images/instructor_1 - Copy.jpg" alt=""></div>
-										<div class="intro_instructors"><a href=>Prof. Nilanjan Byabarta</a> and <span><a href=>Prof. Sumit Anand</a></span></div>
+										<div class="intro_image"><img src="images/anirban sir.jpg" alt=""></div>
+										<div class="intro_instructors"><a href=>IETE Society UEMK</a> and <span><a href=>IIC UEMK</a></span></div>
 									</div>
 								</div>
 							</div>
@@ -63,18 +63,9 @@
 								<div class="row judges_row">
 									<div class="col-lg-4 col-md-6">
 										<div class="judge d-flex flex-row align-items-center justify-content-start">
-											<div class="judge_image"><div><img src="images/nilanjan_sir.jpg" alt=""></div></div>
+											<div class="judge_image"><div><img src="images/anirban sir.jpg" alt=""></div></div>
 											<div class="instructor_content">
-												<div class="instructor_name"><a href="instructors.html">Prof. Nilanjan Byabarta</a></div>
-												<div class="instructor_title">Faculty Co-Ordinator</div>
-											</div>
-										</div>
-									</div>
-									<div class="col-lg-4 col-md-7">
-										<div class="judge d-flex flex-row align-items-center justify-content-start">
-											<div class="judge_image"><div><img src="images/sumit_sir.jpg" alt=""></div></div>
-											<div class="instructor_content">
-												<div class="instructor_name"><a href="instructors.html">Prof. Sumit Anand</a></div>
+												<div class="instructor_name"><a href=>Prof. Anirban Das</a></div>
 												<div class="instructor_title">Faculty Co-Ordinator</div>
 											</div>
 										</div>
@@ -86,19 +77,19 @@
 								<div class="accordions">		
 									<div class="elements_accordions">
 										<div class="accordion_container">
-											<div class="accordion d-flex flex-row align-items-center"><div>Round 1: Exhibition</div></div>
+											<div class="accordion d-flex flex-row align-items-center"><div>Presentation of the idea.</div></div>
 											<div class="accordion_panel">
 												<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 											</div>
 										</div>
 										<div class="accordion_container">
-											<div class="accordion d-flex flex-row align-items-center"><div>Round 2: Report & PPT Presentation</div></div>
+											<div class="accordion d-flex flex-row align-items-center"><div>Demonstrating the live project.</div></div>
 											<div class="accordion_panel">
 												<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 											</div>
 										</div>
 										<div class="accordion_container">
-											<div class="accordion d-flex flex-row align-items-center"><div>Round 3: Project Viva</div></div>
+											<div class="accordion d-flex flex-row align-items-center"><div>Results Announcement.</div></div>
 											<div class="accordion_panel">
 												<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 											</div>
@@ -300,8 +291,8 @@
 								</div>
 							</div>
 							<div class="sidebar_section cert">
-								<div class="sidebar_title">Certification</div>
-								<div class="cert_image"><img src="images/cert.jpg" alt=""></div>
+								<div class="sidebar_title">Event Poster</div>
+								<div class="cert_image"><img src="images/poster.jpeg" alt=""></div>
 							</div>
 							<div class="sidebar_section like">
 								<div class="sidebar_title">Other Events</div>

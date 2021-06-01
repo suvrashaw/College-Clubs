@@ -25,10 +25,10 @@
 							if ($x == 1) {
 								echo '<div class="col-lg-6">
 									<div class="blog_post">
-										<div class="blog_image" style="background-image:url(images/intro.jpg)"></div>
+										<div class="blog_image" style="background-image:url(images/poster.jpeg)"></div>
 										<div class="blog_title_container">
-											<div class="blog_post_category"><a href="#">Department of CSE</a></div>
-											<div class="blog_post_title"><a href=event.php>Project II</a></div>
+											<div class="blog_post_category"><a href=>IETE Society UEMK & IIC UEMK</a></div>
+											<div class="blog_post_title"><a href=event.php>Project Exhibition</a></div>
 											<div class="blog_post_text">
 												<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 											</div>
@@ -39,7 +39,7 @@
 							} else {
 								echo '<div class="col-lg-6">
 									<div class="blog_post">
-										<div class="blog_image" style="background-image:url(images/blog_'.($x+5).'.jpg)"></div>
+										<div class="blog_image" style="background-image:url(images/code.png)"></div>
 										<div class="blog_title_container">
 											<div class="blog_post_category"><a href="#">Club '.($x-1).'</a></div>
 											<div class="blog_post_title"><a href=>Event '.($x-1).'</a></div>
