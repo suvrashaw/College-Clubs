@@ -48,7 +48,7 @@
 						</div>
 						<div class="col-lg-6">
 							<div class="contact_form_container">
-								<div class="form_title">Contact Us</div>
+								<div class="form_title">CulFest E-Cert</div>
 								<form action="" method="POST" id="contact_form" class="contact_form">
 									<div class="row contact_row">
 										<div class="col-lg-6 contact_col">
@@ -58,10 +58,10 @@
 											<input type="date" class="form_input" placeholder="Date" name="Date" required="required">
 										</div>
 										<div class="col-lg-12 contact_col">
-											<input type="email" class="form_input" placeholder="Message" name="Message" required="required">
+											<input type="email" class="form_input" placeholder="Email" name="Email" required="required">
 										</div>
 										<div class="col">
-											<button type="submit" class="form_button trans_200" name="Submit" value="Submit">SEND</button>
+											<button type="submit" class="form_button trans_200" name="Submit" value="Submit">Submit</button>
 										</div>'
 									</div>
 								</form>
