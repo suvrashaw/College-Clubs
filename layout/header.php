@@ -31,7 +31,8 @@
 							<ul class="main_nav">
 								<li <?php echo $active=="index"?' class="active" ':""; ?>><a href="index.php">Home</a></li>
 								<li <?php echo $active=="events"?' class="active" ':""; ?>><a href="events_only.php">Events</a></li>
-								<li <?php echo $active=="contact"?' class="active" ':""; ?>><a href="contact.php">Certificates</a></li>
+								<li <?php echo $active=="contact"?' class="active" ':""; ?>><a href="ecert.php">Certificates</a></li>
+								<li <?php echo $active=="contact"?' class="active" ':""; ?>><a href="contact.php">Contact Us</a></li>
 							</ul>
 						</nav>
 						<div class="header_content_right ml-auto text-right">
