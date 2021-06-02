@@ -1,7 +1,7 @@
 <?php $active="events"; ?>
 <!DOCTYPE html><html lang="en">
 	<head>
-		<title>Project II</title>
+		<title>Project Exhibition</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<link rel="stylesheet" type="text/css" href="styles/bootstrap4/bootstrap.min.css">
