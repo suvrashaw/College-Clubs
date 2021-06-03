@@ -5,6 +5,9 @@
 			<div class="row">
 				<div class="col-lg-2 offset-lg-3 footer_col">
 					<div>
+						<div class="logo_text">College Clubs</div>
+						<br>
+						<br>
 						<div class="footer_title">About Us</div>
 						<ul class="footer_list">
 							<li><a href=>The University</a></li>
@@ -27,7 +30,7 @@
 					<div>
 						<div class="footer_title">Copyright &copy;<script>document.write(new Date().getFullYear());</script></div>
 						<ul class="footer_list">
-							<li><a href=>Group No. 33</a></li>
+							<li><a href=>College Clubs</a></li>
 							<li><a href=>Dept. of CS</a></li>
 							<li><a href=>UEM Kolkata</a></li>
 						</ul>
